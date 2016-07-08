@@ -32,6 +32,7 @@ public class MainActivity extends FragmentActivity {
 	LinearLayout ll_more_columns;
 	RelativeLayout rl_column;
 	ViewPager viewPager;
+	//
 	ImageView button_more_columns;
 	//新闻分类列表
 	ArrayList<NewsClassify> newsClassify=new ArrayList<NewsClassify>();
